@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/festival/includes/onglets.inc.php</file>
+            <file>file:/C:/wamp64/www/festival/controleurs/c_GestionEtablissements.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/v_debut.inc.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/GestionEtablissements/v_CreerModifierEtablissement.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/GestionEtablissements/v_SupprimerEtablissement.php</file>
+            <file>file:/C:/wamp64/www/festival/modele/class.pdofestival.inc.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/GestionEtablissements/v_ObtenirEtablissements.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/AttributionChambres/v_ConsulterAttributionChambres.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/GestionEtablissements/v_ObtenirDetailEtablissement.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/OffreHebergement/v_ConsulterOffreHebergement.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/GestionTypesChambres/v_CreerModifierTypeChambre.php</file>
+            <file>file:/C:/wamp64/www/festival/controleurs/c_GestionTypesChambres.php</file>
+            <file>file:/C:/wamp64/www/festival/includes/gestionErreurs.inc.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/Accueil/v_Accueil.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/AttributionChambres/v_DonnerNbChambresAttributionChambres.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/v_fin.inc.php</file>
+            <file>file:/C:/wamp64/www/festival/controleurs/c_OffreHebergement.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/GestionTypesChambres/v_SupprimerTypeChambre.php</file>
+            <file>file:/C:/wamp64/www/festival/index.php</file>
+            <file>file:/C:/wamp64/www/festival/css/cssOnglets.css</file>
+            <file>file:/C:/wamp64/www/festival/includes/pdo-debug.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/OffreHebergement/v_ModifierOffreHebergement.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/AttributionChambres/v_ModifierAttributionChambres.php</file>
+            <file>file:/C:/wamp64/www/festival/vues/GestionTypesChambres/v_ObtenirTypesChambres.php</file>
+            <file>file:/C:/wamp64/www/festival/controleurs/c_AttributionChambres.php</file>
+        </group>
+    </open-files>
+</project-private>
